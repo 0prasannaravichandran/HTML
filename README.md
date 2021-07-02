@@ -30,7 +30,7 @@ HTML elements are the building blocks of HTML pages. With HTML constructs`, `ima
 </body>
 </html>
 ```
-> **Note** : Emmet Cheat Sheet (https://docs.emmet.io/cheat-sheet/)
+> **Note** : [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
 
 ## Basic Elements
 
@@ -229,6 +229,6 @@ This value can be overridden by a formtarget attribute on a `button`, `input typ
 
 ## Important Links
 
-- MDN (https://developer.mozilla.org/en-US/docs/Web/HTML)
-- W3Schools (https://www.w3schools.com/html/)
-- Dev Docs (https://devdocs.io/html/)
+- [MDN - HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [W3Schools - HTML](https://www.w3schools.com/html/)
+- [Dev Docs - HTML](https://devdocs.io/html/)
